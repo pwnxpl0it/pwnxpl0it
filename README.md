@@ -49,7 +49,12 @@
 |---|---|
 | [**react2shell-lab**](https://github.com/pwnxpl0it/react2shell-lab) | Vulnerable lab for CVE-2025-55182 |
 | [**insecure_deserialization**](https://github.com/pwnxpl0it/insecure_deserialization) | Tiny Flask app vulnerable to insecure deserialization |
-| [**roasterpy**](https://github.com/pwnxpl0it/roasterpy) | Script to roast a list of GitHub profiles (just for fun) |
+
+**🎲 Just for fun**
+
+| Project | What it is |
+|---|---|
+| [**roasterpy**](https://github.com/pwnxpl0it/roasterpy) | Script to roast a list of GitHub profiles 😄 |
 
 ### 📊 Stats
 
