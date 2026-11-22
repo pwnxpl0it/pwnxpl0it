@@ -34,12 +34,22 @@
 
 ### 🚀 Selected projects
 
+**🦀 Rust & tooling**
+
 | Project | What it is |
 |---|---|
-| [**cargo-scrub**](https://github.com/pwnxpl0it/cargo-scrub) | Fast, safe CLI to recursively clean Rust crates 🦀 |
+| [**cargo-scrub**](https://github.com/pwnxpl0it/cargo-scrub) | Fast, safe CLI to recursively clean Rust crates |
 | [**spark**](https://github.com/pwnxpl0it/spark) | TOML-based project initializer (+ [spark.nvim](https://github.com/pwnxpl0it/spark.nvim) & [spark-mcp](https://github.com/pwnxpl0it/spark-mcp)) |
 | [**dynenum**](https://github.com/pwnxpl0it/dynenum) | Rust library for dynamic & static enum generation |
+| [**asynchat**](https://github.com/pwnxpl0it/asynchat) | Asynchronous chat server in Rust with tokio |
+
+**🔐 Security**
+
+| Project | What it is |
+|---|---|
 | [**react2shell-lab**](https://github.com/pwnxpl0it/react2shell-lab) | Vulnerable lab for CVE-2025-55182 |
+| [**insecure_deserialization**](https://github.com/pwnxpl0it/insecure_deserialization) | Tiny Flask app vulnerable to insecure deserialization |
+| [**roasterpy**](https://github.com/pwnxpl0it/roasterpy) | Script to roast a list of GitHub profiles (just for fun) |
 
 ### 📊 Stats
 
